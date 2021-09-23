@@ -2,7 +2,7 @@
 
 ### Team: [cybsec_wce](https://ctftime.org/team/164611)
 * Kranti Bharti
-* Dyneshwari Kolapkar
+* Dnyaneshwari Kolapkar
 * Mrunal Khade
 * Shrenik Jadhav
 * Suyash Chavan
